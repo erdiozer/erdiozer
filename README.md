@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 •
 -->
 
-### Hi 👋 I'm Erdi
+## Hi 👋 I'm Erdi
 
 - 𝗜 𝗮𝗺 𝗮 Software Developer
 - 𝗜 ❤️ 𝗣𝗿𝗼𝗴𝗿𝗮𝗺𝗺𝗶𝗻𝗴!
