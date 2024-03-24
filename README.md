@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 ![Visitor count](https://visitor-badge.laobi.icu/badge?page_id=erdiozer)   <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="30">
 -->
 
-## Hi 👋 I'm Erdi
+<h1> Hi 👋 I'm Erdi </h1> 
 
 - 𝗜 𝗮𝗺 𝗮 Software Developer
 - 𝗜 ❤️ 𝗣𝗿𝗼𝗴𝗿𝗮𝗺𝗺𝗶𝗻𝗴!
@@ -48,6 +48,8 @@ Here are some ideas to get you started:
 <!--
 <a href="https://shivammalpani.netlify.app/"><img alt="Website" src="https://img.shields.io/badge/shivammalpani.netlify.app-black?style=flat-square&logo=google-chrome"></a>
 -->
+  
+<br>
 
 <a href="https://erdiozer.dev/"><img alt="https://erdiozer.dev/" src="https://img.shields.io/badge/Portfolio-erdiozer.dev-blue?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAACXBIWXMAAAB2AAAAdgFOeyYIAAAAGXRFWHRTb2Z0d2FyZQB3d3cuaW5rc2NhcGUub3Jnm+48GgAAAY5JREFUOI19079LlWEUB/DP9b4OFVYkGGEOWtoPhwgaXIQgmmtxUmgwyrAhCBrcbWqI1iQIhIgrZdBf0BJE0a9ByygjIkMoclFKuw3PeeTlcvPA83Lew/nx/X7P81T83w7hQPgf8H6L3E0rMIbXWMT9OJ/xChcjZ9NaSv5u3MPvKBjATJwBfMF65OxqbFDgNiZRxV0slZp/i1gLrmMq8tIHF9CJZVzGMxyJyftjYoFxzKMXe/AiIziLR9iJFWw00WcDPyNnNmoUOIyXqOFYIKk1FOf/LjyXRD6Bvmo4x7ENp9CB7egvUZjHLxzEyYB/FN/zSipNIJetHcN4jLWI/c0UPgW3mnRZzjSh0I69uIpV3MAfzBV4F9yHQqDB8AUF0u5/4Iq0gWtoxZO8hYeSqivRJK832xL2hb+AB+hGZ9bgDk5Ld35KunEzpQZfg0ZbQO/HNN5mBOs4jwnUca40UcR2SO/iFm4GzdZG9asYxaWY+DSK3wT0OUnkbmntI1utr096znXpHixGvIIefET9H4KQWEyJxnWcAAAAAElFTkSuQmCC"></a>
 
@@ -80,7 +82,7 @@ Here are some ideas to get you started:
 
 -->
 
-
+##
 
 <h3>🛠 To Learn</h3>
 
