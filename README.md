@@ -16,17 +16,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 <hr>
-
+•
 -->
 
 ### Hi there 👋<h2> I'm Erdi</h2>
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-<h3> 👨🏻•💻 About Me </h3>
+<h3> 👨🏻💻 About Me </h3>
 
 
-
+<!--
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 
 - 🎓 &nbsp; Studying Computer Science and Engineering at IIIT Vadodara and coding stuffs.
@@ -34,8 +34,8 @@ Here are some ideas to get you started:
 - 🌱 &nbsp; Learning about Cloud Tech, Systems Design.
 
 - ✍️ &nbsp; Pursuing Web Development as hobbies/side hustles.
-
-
+-->
+<p>I have analytical thinking skills, analyze various business processes or can offer solutions such as automation systems, web projects, etc. in line with needs. I am a software developer who is prone to teamwork, curious about technology and constantly improving himself.</p>
 
 <h3>🛠 Tech Stack</h3>
 
