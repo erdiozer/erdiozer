@@ -107,7 +107,7 @@ Here are some ideas to get you started:
 
 
 
-![Visitor count](https://visitor-badge.laobi.icu/badge?page_id=erdiozer.erdiozer)   <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="30">
+![Visitor count](https://visitor-badge.laobi.icu/badge?page_id=erdiozer)   <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="30">
 
 
 
