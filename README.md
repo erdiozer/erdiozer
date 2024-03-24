@@ -14,9 +14,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
+🖥
 <hr>
+
 •
+![Visitor count](https://visitor-badge.laobi.icu/badge?page_id=erdiozer)   <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="30">
 -->
 
 ## Hi 👋 I'm Erdi
@@ -25,6 +27,8 @@ Here are some ideas to get you started:
 - 𝗜 ❤️ 𝗣𝗿𝗼𝗴𝗿𝗮𝗺𝗺𝗶𝗻𝗴!
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+
+##
 
 <h3> 👨🏻💻 About Me </h3>
 
@@ -40,13 +44,31 @@ Here are some ideas to get you started:
 -->
 <p>I have analytical thinking skills, analyze various business processes or can offer solutions such as automation systems, web projects, etc. in line with needs. I am a software developer who is prone to teamwork, curious about technology and constantly improving himself.</p>
 
+<div align="center">
+<!--
+<a href="https://shivammalpani.netlify.app/"><img alt="Website" src="https://img.shields.io/badge/shivammalpani.netlify.app-black?style=flat-square&logo=google-chrome"></a>
+-->
+
+<a href="https://erdiozer.dev/"><img alt="https://erdiozer.dev/" src="https://img.shields.io/badge/Portfolio-erdiozer.dev-blue?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAACXBIWXMAAAB2AAAAdgFOeyYIAAAAGXRFWHRTb2Z0d2FyZQB3d3cuaW5rc2NhcGUub3Jnm+48GgAAAY5JREFUOI19079LlWEUB/DP9b4OFVYkGGEOWtoPhwgaXIQgmmtxUmgwyrAhCBrcbWqI1iQIhIgrZdBf0BJE0a9ByygjIkMoclFKuw3PeeTlcvPA83Lew/nx/X7P81T83w7hQPgf8H6L3E0rMIbXWMT9OJ/xChcjZ9NaSv5u3MPvKBjATJwBfMF65OxqbFDgNiZRxV0slZp/i1gLrmMq8tIHF9CJZVzGMxyJyftjYoFxzKMXe/AiIziLR9iJFWw00WcDPyNnNmoUOIyXqOFYIKk1FOf/LjyXRD6Bvmo4x7ENp9CB7egvUZjHLxzEyYB/FN/zSipNIJetHcN4jLWI/c0UPgW3mnRZzjSh0I69uIpV3MAfzBV4F9yHQqDB8AUF0u5/4Iq0gWtoxZO8hYeSqivRJK832xL2hb+AB+hGZ9bgDk5Ld35KunEzpQZfg0ZbQO/HNN5mBOs4jwnUca40UcR2SO/iFm4GzdZG9asYxaWY+DSK3wT0OUnkbmntI1utr096znXpHixGvIIefET9H4KQWEyJxnWcAAAAAElFTkSuQmCC"></a>
+
+</div>
+
+##
+
+
 <h3>🛠 Tech Stack</h3>
 
 
 
-- 💻 &nbsp; Python | Java | C++ | C | MySQL
+- 💻 &nbsp; Python | C++ | C# | Delphi
 
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | ReactJS
+- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | ReactJS | React Native | PHP | SCSS | SASS | TypeScript | Tailwind CSS | jQuery
+
+- 🛢 &nbsp; MySQL | MongoDB | PostgreSQL
+
+- 🔧 &nbsp; Git | Github | Selenium | TensorFlow | Numpy | PyTorch
+
+- ⚡ &nbsp; AWS | MVC | MVVM | Single Page Application | Jerkins | Agile
 
 <!--
 
@@ -62,7 +84,7 @@ Here are some ideas to get you started:
 
 <h3>🛠 To Learn</h3>
 
-- 🔧 &nbsp; AWS | Docker🐳 | Firebase | flask
+- 🔧 &nbsp; Docker🐳 | Firebase | flask | ReactNative | ExpressJS | NodeJS | Next.js
 
 <hr>
 
@@ -70,50 +92,17 @@ Here are some ideas to get you started:
 
 <br/><br/>
 
-[![Shivam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shivam0110&show_icons=true)](https://github.com/shivam0110)
-
-<br/>
-
-<br/>
-
-<img src="https://github.com/nirala69/nirala69/blob/master/70804f7e25b11f29db904f2fa7b4cd9d.gif" width="350" align='right'>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shivam0110&show_icons=true)
-
-<br><br>
 
 
-
-<hr>
-
-
-
+<!--
 <h3> 🤝🏻 Connect with Me </h3>
 
 <br>
-
-
-
-<p align="center">
-
-<a href="https://shivammalpani.netlify.app/"><img alt="Website" src="https://img.shields.io/badge/shivammalpani.netlify.app-black?style=flat-square&logo=google-chrome"></a>
-
-<a href="https://www.linkedin.com/in/shivam-malpani-47a379198/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Shivam%20Malpani-blue?style=flat-square&logo=linkedin"></a>
-
-<a href="https://www.instagram.com/i__disbalance/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-i__disbalance-black?style=flat-square&logo=instagram"></a>
-
-<a href="mailto:shivammalpani111@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-shivammalpani111@gmail.com-blue?style=flat-square&logo=gmail"></a>
-
-</p>
+-->
 
 
 
 
 
-![Visitor count](https://visitor-badge.laobi.icu/badge?page_id=erdiozer)   <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="30">
 
 
-
-
-
-<hr>
