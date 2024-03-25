@@ -59,7 +59,7 @@ Here are some ideas to get you started:
 
 - 💻 &nbsp; Python | C++ | C# | Delphi
 
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | ReactJS | React Native | PHP | SCSS | SASS | TypeScript | Tailwind CSS | jQuery
+- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | React | React Native | PHP | SCSS | SASS | TypeScript | Tailwind CSS | jQuery
 
 - 🛢 &nbsp; MySQL | MongoDB | PostgreSQL
 
